@@ -1,0 +1,10 @@
+texto = input ("ingrese una cadena de texto")
+print("el texto ingresado es:")
+#print(texto.upper())
+mayus= texto.upper()
+
+#print("Texto en minusculas: ")
+#print("el texto ingresado es:")
+#print(texto.lower())
+#print("el texto ingresado es:")
+print(mayus.split(","))
