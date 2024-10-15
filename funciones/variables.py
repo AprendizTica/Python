@@ -1,13 +1,3 @@
-#cantidad = int (input ("ingrese la cantidad de los productos"))
-#valor = int(input ("ingrese el precio"))
- #  print cantidad
-  #  print ()
-   
-#def calcular (x,y)
-#    returm x*y
-
-#resultado=calcular (cantidad, valor)
-#print (resultado)
 
 def calcular(x,y):
    return x * y
